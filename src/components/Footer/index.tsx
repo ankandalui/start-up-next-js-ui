@@ -217,21 +217,21 @@ const Footer = () => {
             <p className="text-center text-base text-body-color dark:text-white">
               Template by{" "}
               <a
-                href="http://uideck.com"
+                href="/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary"
               >
-                UIdeck
+                Ankan Dalui
               </a>{" "}
               and{" "}
               <a
-                href="https://nextjstemplates.com"
+                href="https://github.com/ankandalui"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary"
               >
-                Next.js Templates
+                Next.js
               </a>
             </p>
           </div>
